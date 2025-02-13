@@ -24,7 +24,7 @@ Install the packages:
 ```
 pip install -r requirements.txt
 ```
-We also provide finetuned CB-LLMs, allowing you to skip the training process. Download the checkpoints from huggingface:
+We also provide finetuned CB-LLMs, allowing you to skip the training process. Download the checkpoints from Hugging Face:
 ```
 git lfs install
 git clone https://huggingface.co/cesun/cbllm-classification temp_repo
@@ -118,7 +118,7 @@ Install the packages:
 ```
 pip install -r requirements.txt
 ```
-We also provide finetuned CB-LLMs, allowing you to skip the training process. Download the checkpoints from huggingface:
+We also provide finetuned CB-LLMs, allowing you to skip the training process. Download the checkpoints from Hugging Face:
 ```
 git lfs install
 git clone https://huggingface.co/cesun/cbllm-generation temp_repo
